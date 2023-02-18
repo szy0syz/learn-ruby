@@ -28,3 +28,16 @@ rails new blog
 rails s
 rails s -p 6666
 ```
+
+### Philosophy
+
+- Follow web standards and HTTP
+- CoC (Convention over Configuration)
+- MVC (Model-View-Controller)
+- DRY
+- Software Engineering Patterns
+- Assets
+- Restful
+- Testing
+- Deployment
+- Automation
