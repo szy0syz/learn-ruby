@@ -4,7 +4,7 @@
 
 - [VScode] Code Runner
 
-## Note
+## Ruby
 
 What is object-oriented programming?
 
@@ -19,3 +19,12 @@ Variables and Constants
 - A constant is a name for a value that will not change over the program's execution. Use ALL CAPS for constants.
 - Choose a name, then write the equal sign, and the value on the right hand side.
 - Ruby evaluates the right-hand side of an equal sign first. Thus, we can assign a variable or constant to the result of an evaluation.
+
+## Rails
+
+```bash
+rails new blog
+
+rails s
+rails s -p 6666
+```
